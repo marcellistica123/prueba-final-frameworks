@@ -1,0 +1,75 @@
+.blog-de-musica{
+   font-style: oblique;
+    width: 100%;
+}
+
+.navbar{
+    background-color: #fff;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    min-height: 74px;
+    
+}
+.nav-item{
+    display: block;
+    align-items: center;
+    margin: 0.5em;
+    text-decoration: inherit;
+    font-family: fantasy;
+    font-size: 30px;
+    width: 20%
+}
+
+.logo{
+    width:100px;
+}
+
+
+.img-social{
+    align-content: center;
+    margin: 2px;   
+    width: 50px;
+    margin-top: 40px;   
+}
+
+.container{
+    height: 100%;
+    min-height: 7px;
+    align-content: center;
+    width: 100%;   
+}
+
+.buscar{
+    height: 100%;
+}
+
+.composer{
+    height: 100%;
+}
+
+.titulo{
+    font-family: fantasy;
+    font-size: 40px;
+    font: bold;
+}
+
+.parrafo{
+    font-family: fantasy;
+    font-size: 24px;
+}
+
+.user{
+    margin: 25px;
+    margin-bottom: 80px;
+}
+@media (max-width:320px){
+    .buscar{
+        min-height: 250px;
+    }
+    .composer{
+        min-height: 300px;
+    }
+    .input-group-addon{
+        min-height: 250px;
+    }
+}
