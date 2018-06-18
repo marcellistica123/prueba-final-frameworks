@@ -73,16 +73,17 @@
 }
 
 .contenido{
-    width: 100%;
+    width: 75%;
+}
+.contenido1{
+    width: 100%,
 }
 
-.contenido1{
-    width: 100%;
-}
+
 #comentario{
     width: 85%;
 }
-@media (max-width:320px){
+@media (max-width:720px){
     .buscar{
         min-height: 250px;
     }
