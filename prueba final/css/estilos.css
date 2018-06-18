@@ -39,24 +39,24 @@
     width: 100%;   
 }
 
-.foto{
+.foto, .foto1{
     text-align: center;
     margin-top: 10%
 }
+
 .buscador{
     margin-top: 10%
 }
 .buscar{
     height:auto;
     float: right;
-    margin-top: auto
 }
 
 .composer{
     height: 100%;
 }
 
-.titulo{
+.titulo, .titulo1{
     font-family: fantasy;
     font-size: 40px;
     font: bold;
@@ -73,6 +73,10 @@
 }
 
 .contenido{
+    width: 100%;
+}
+
+.contenido1{
     width: 100%;
 }
 #comentario{
