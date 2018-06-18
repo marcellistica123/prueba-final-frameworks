@@ -39,8 +39,17 @@
     width: 100%;   
 }
 
+.foto{
+    text-align: center;
+    margin-top: 10%
+}
+.buscador{
+    margin-top: 10%
+}
 .buscar{
-    height: 100%;
+    height:auto;
+    float: right;
+    margin-top: auto
 }
 
 .composer{
@@ -61,6 +70,13 @@
 .user{
     margin: 25px;
     margin-bottom: 80px;
+}
+
+.contenido{
+    width: 100%;
+}
+#comentario{
+    width: 85%;
 }
 @media (max-width:320px){
     .buscar{
