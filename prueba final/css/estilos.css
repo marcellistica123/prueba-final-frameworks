@@ -93,4 +93,7 @@
     .input-group-addon{
         min-height: 250px;
     }
+    .contenido, .contenido1{
+        width: 100%;
+    }
 }
